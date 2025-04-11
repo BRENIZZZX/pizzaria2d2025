@@ -16,10 +16,10 @@ function App(){
       type="text" />
       <button
       className="botao"
-      onClick={()=>{alert(nome)}}>
+      onClick={()=>{alert("CLICA AQUI NAO" )}}>
       
       
-        clica aqui
+        clica aqui nao ze
        
       </button>
     </div>
